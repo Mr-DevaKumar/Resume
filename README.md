@@ -8,7 +8,6 @@ It is designed to be easily updated and customized.
 ## Contents
 
 - `resume.pdf` — The latest compiled resume in PDF format  
-- `resume.tex` / `resume.docx` / `resume.md` — Source files for the resume (replace with your actual formats)  
 - Any other assets or scripts used to generate or format the resume
 
 ---
@@ -47,7 +46,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you want to reach me, feel free to connect via:
 
 - GitHub: [Mr-DevaKumar](https://github.com/Mr-DevaKumar)  
-- Email: your.email@example.com (replace with your email)
+- Email: deva29008@gmail.com (replace with your email)
 
 ---
 
